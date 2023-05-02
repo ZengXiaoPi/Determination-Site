@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Undertale同人作品',
-                to: '/docs/intro',
+                to: '/docs/utgame',
               },
             ],
           },

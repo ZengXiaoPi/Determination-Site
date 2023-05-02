@@ -123,6 +123,28 @@ sidebar_position: 1
 
 -----
 
+# JokeTale
+
+中文名：怪诞秘闻（王牌传说）
+
+## JokeTale Sans Fight By ZY
+
+中文名：怪诞秘闻（王牌传说）衫斯战 By 庄严的
+
+游戏：庄严的承诺
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/joketale.zip)
+
+## JokeTale Sans Fight By HolyMirror
+
+中文名：怪诞秘闻（王牌传说）衫斯战 By HolyMirror
+
+游戏：HolyMirror（Bilibili：HolyMirror5）
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
+
+-----
+
 # KeepTale
 
 中文名：永续轮回

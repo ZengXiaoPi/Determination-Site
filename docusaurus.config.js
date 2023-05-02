@@ -60,7 +60,7 @@ const config = {
         title: 'Determination',
         logo: {
           alt: 'Keep Your Determination',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {

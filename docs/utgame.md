@@ -37,6 +37,8 @@ AU作者：红烧鱼，bones
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
 
+-----
+
 # Delirium Of Aeons
 
 中文名：空惘谵臆：破晓蜚歌
@@ -61,6 +63,8 @@ AU作者：TED，纳兰寇
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
 
+-----
+
 # DustTale
 
 中文名：尘埃传说
@@ -76,6 +80,8 @@ AU作者：TED，纳兰寇
 画师：莫星，TML（糖萌芦
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/Murder%20Sans%20Fight%20by%20fdy.rar)
+
+-----
 
 # EdgeEdge
 
@@ -96,6 +102,8 @@ AU作者：TED，纳兰寇
 测试组成员：LDY_绿豆蝇 饱受bs 我是屑114513
 
 下载链接：[OneDrive直链（3.0）](https://download.zxpweb.eu.org/edgeedge3.0.zip)
+
+-----
 
 # EdgeTale
 
@@ -125,6 +133,8 @@ logo：浩渺烟尘
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/edgetale(3).zip)
 
+-----
+
 # Ink sans phase3 SHANGHAIVANIA
 
 软件：GMS2
@@ -136,6 +146,8 @@ ink贴图作者：奶猹XD
 音乐：【Inktale + We Finna Box】SHANGHAIVANIA（作者：Valor Genesect）
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/isp3-zy.zip)
+
+-----
 
 # KeepTale
 
@@ -171,6 +183,8 @@ logo：prince-C-
 
 下载链接：原链挂了，欢迎提供资源
 
+-----
+
 # ModernSwap
 
 中文名：摩登反转
@@ -196,6 +210,8 @@ AU归属：兰纳
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip)
 
+-----
+
 # OverSave-Tale
 
 中文名：~~FDY~~
@@ -205,6 +221,8 @@ AU作者 & 游戏原作者：复读鸭
 后续完善作者：秋裤 砂糖
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/OverSave-Tale%200.4.4.rar)
+
+-----
 
 # TS!UnderSwap
 
@@ -217,6 +235,8 @@ AU作者 & 游戏原作者：复读鸭
 游戏：复读鸭
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/TS!underswap%20papyrus%20fight%20by%20fdy.rar)
+
+-----
 
 # UltimaTale
 
@@ -235,6 +255,8 @@ AU作者：天耀TinYiu
 游戏作者：庄严的承诺
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
+
+-----
 
 # UnderFell: Plan
 
@@ -262,6 +284,8 @@ LOGO和GB贴图：厨艺带师布鸽
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underfell-plan.zip)
 
+-----
+
 # 庄严战
 
 软件：gms2
@@ -279,6 +303,8 @@ AU&游戏作者&弹幕&文本：庄严的承诺
 logo作者：浩渺烟尘
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
+
+-----
 
 # 传说之下：天国
 

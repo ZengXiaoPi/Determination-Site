@@ -5,6 +5,33 @@
  */
 
 /* You can override the default Infima variables here. */
+
+.heroBanner {
+    text-align: center;
+    text-shadow: 2px 2px 2px #666;
+    position: relative;
+    overflow: hidden;
+    background-image: url(/img/bg/bg_light.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0;
+    color: white;
+}
+
+html[data-theme='dark'] .heroBanner {
+    text-align: center;
+    text-shadow: 2px 2px 2px #666;
+    position: relative;
+    overflow: hidden;
+    background-image: url(/img/bg/bg_dark.png);
+    background-position: center 10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10rem 0;
+    color: white;
+}
+
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;

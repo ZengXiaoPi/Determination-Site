@@ -27,7 +27,7 @@ const config = {
     locales: ['zh'],
     path: 'i18n',
     localeConfigs: {
-      zh-Hans: {
+      zh: {
         label: '简体中文',
         direction: 'zh',
         htmlLang: 'zh-CN',

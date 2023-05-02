@@ -65,11 +65,11 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'utgame',
             position: 'left',
-            label: 'Tutorial',
+            label: '下载游戏',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/ZengXiaoPi/Determination-Site',
             label: 'GitHub',
@@ -112,7 +112,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Determination, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © 2023 - ${new Date().getFullYear()} Determination Team. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

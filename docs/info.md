@@ -1,6 +1,6 @@
 ---
 title: 政策性文件
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ## 不会收录的游戏

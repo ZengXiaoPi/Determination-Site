@@ -29,7 +29,7 @@ const config = {
     localeConfigs: {
       zh: {
         label: '简体中文',
-        direction: 'zh',
+        direction: 'ltr',
         htmlLang: 'zh-CN',
         calendar: 'gregory',
         path: 'zh',

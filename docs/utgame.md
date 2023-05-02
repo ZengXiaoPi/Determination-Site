@@ -99,6 +99,12 @@ sidebar_position: 1
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/edgetale(3).zip)
 
+## 庄严战
+
+游戏：庄严的承诺
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
+
 -----
 
 # Ink sans phase3 SHANGHAIVANIA
@@ -197,6 +203,8 @@ sidebar_position: 1
 
 # OverSave-Tale
 
+## OverSave-Tale 及 附带的FDY大多数游戏
+
 中文名：~~FDY~~
 
 游戏：复读鸭
@@ -260,14 +268,6 @@ sidebar_position: 1
 游戏：起名废
 
 下载链接：[OneDrive直链（未优化版）](https://download.zxpweb.eu.org/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive直链（优化版）](https://download.zxpweb.eu.org/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
-
------
-
-# 庄严战
-
-游戏：庄严的承诺
-
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
 
 -----
 

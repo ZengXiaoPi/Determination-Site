@@ -13,6 +13,8 @@ sidebar_position: 1
 
 如果您有想提交的同人，敬请提交Issue。
 
+善用Ctrl+F（搜索）功能。
+
 [Github Repo](https://github.com/ZengXiaoPi/Determination-Site)
 
 -----
@@ -42,6 +44,20 @@ sidebar_position: 1
 游戏：庄严的承诺
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
+
+-----
+
+# DIGIT FAULT
+
+中文名：数码断层
+
+## DIGIT FAULT Guess fight by QMF
+
+中文名：数码断层 Guess战 by 起名废
+
+游戏：起名废
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
 
 -----
 
@@ -93,6 +109,18 @@ sidebar_position: 1
 
 -----
 
+# Interveintale
+
+中文名：交错传说
+
+## Yu Sans ULB
+
+中文名：Yu Sans 但是  传说之下：最后的呼吸
+
+下载链接：[OneDrive直链（一阶段）](https://download.zxpweb.eu.org/%E4%BA%A4%E9%94%99ulb.zip)  [OneDrive直链（三阶段）](https://download.zxpweb.eu.org/yuulbp3.exe)
+
+-----
+
 # KeepTale
 
 中文名：永续轮回
@@ -112,6 +140,20 @@ sidebar_position: 1
 游戏：希希希土
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/keep%20sans%20fight.zip)
+
+-----
+
+# Love Struck
+
+中文名：爱的打击
+
+## Love Struck Sans Fight By QMF
+
+中文名：爱的打击 衫斯战 By 起名废
+
+游戏：起名废
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/usls-eng-3.14.zip)
 
 -----
 
@@ -180,6 +222,20 @@ sidebar_position: 1
 游戏：庄严的承诺
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underfell-plan.zip)
+
+-----
+
+# WorldChange
+
+中文名：世界转变
+
+## WorldChange Chara Fight
+
+中文名：世界转变 chara战
+
+游戏：起名废
+
+下载链接：[OneDrive直链（未优化版）](https://download.zxpweb.eu.org/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive直链（优化版）](https://download.zxpweb.eu.org/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
 
 -----
 

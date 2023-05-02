@@ -69,7 +69,7 @@ const config = {
       navbar: {
         title: 'Determination',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Keep Your Determination',
           src: 'img/logo.svg',
         },
         items: [

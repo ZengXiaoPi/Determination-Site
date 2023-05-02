@@ -23,7 +23,9 @@ sidebar_position: 1
 
 AU作者：红烧鱼，bones
 
-## CLASSIC！dusttrust
+## CLASSIC！dusttrust Sans Fight
+
+中文名：尘埃反转不信 衫斯战
 
 软件：GMS2
 

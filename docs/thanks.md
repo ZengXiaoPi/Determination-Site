@@ -1,6 +1,6 @@
 ---
 title: 感谢名单
-sidebar_position: 3
+sidebar_position: 5
 ---
 
 - 感谢 [我是小萌新卐](https://space.bilibili.com/432668032) 对本站的慷慨捐赠。

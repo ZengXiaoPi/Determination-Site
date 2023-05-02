@@ -1,5 +1,6 @@
 ---
 title: 游戏下载
+sidebar_position: 1
 ---
 
 欢迎来到Undertale Download Site（传说之下下载站）！

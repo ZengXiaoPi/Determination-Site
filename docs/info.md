@@ -3,12 +3,10 @@ title: 政策性文件
 sidebar_position: 2
 ---
 
-不会收录的游戏
+## 不会收录的游戏
 
 - Rhythm Recall相关资源
 - 忘川传说相关资源
-
-# 政策性文件
 
 ## 资源来源
 

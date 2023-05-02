@@ -20,7 +20,7 @@ sidebar_position: 2
 
 本网站不会收集您的任何cookie。
 
-但我们所使用的VuePress可能会创建一些cookie，请放心，这些cookie完全无害。
+但我们所使用的Docusaurus可能会创建一些cookie，请放心，这些cookie完全无害，也不会记录您的任何信息。
 
 Cloudflare可能会记录您的来访，但我们不会收集任何您的隐私信息。
 

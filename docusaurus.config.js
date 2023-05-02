@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh-Hans'],
+    defaultLocale: 'zh',
+    locales: ['zh'],
     path: 'i18n',
     localeConfigs: {
       zh-Hans: {
@@ -32,7 +32,7 @@ const config = {
         direction: 'zh',
         htmlLang: 'zh-CN',
         calendar: 'gregory',
-        path: 'zh-Hans',
+        path: 'zh',
       },
     }
   },

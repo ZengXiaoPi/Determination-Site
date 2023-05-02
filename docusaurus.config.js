@@ -25,8 +25,18 @@ const config = {
   i18n: {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans'],
+    path: 'i18n',
+    localeConfigs: {
+      zh-Hans: {
+        label: '简体中文',
+        direction: 'zh',
+        htmlLang: 'zh-CN',
+        calendar: 'gregory',
+        path: 'zh-Hans',
+      },
+    }
   },
-
+  
   presets: [
     [
       'classic',

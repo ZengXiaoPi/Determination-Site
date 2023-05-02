@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '方便快捷',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        本站所有同人作品均采用直链方式提供下载，简单快捷。
+        相对比提供的某某网盘，本站链接能做到满速下载。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '不盈利，不占有',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        本站全部页面的内容使用CC0 1.0公共领域贡献协议。
+        这也代表我们会将所有的内容贡献给社区。
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '社区支持',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        让我们感谢社区作者制作的同人游戏，感谢他们的付出。
+        同时感谢对本项目赞助的所有人。
       </>
     ),
   },

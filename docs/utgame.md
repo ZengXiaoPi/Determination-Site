@@ -3,7 +3,7 @@ title: 游戏下载
 sidebar_position: 1
 ---
 
-欢迎来到Undertale Download Site（传说之下下载站）！
+欢迎来到Determination Site！
 
 这是一个由某不知名疣体up主提议，[曾小皮-ZengXiaoPi](https://space.bilibili.com/481298570)制作的下载站。
 
@@ -13,7 +13,7 @@ sidebar_position: 1
 
 如果您有想提交的同人，敬请提交Issue。
 
-[UT-DS Github Repo](https://github.com/ZengXiaoPi/UT-DS)
+[Github Repo](https://github.com/ZengXiaoPi/Determination-Site)
 
 -----
 

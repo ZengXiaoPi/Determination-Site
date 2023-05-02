@@ -1,19 +1,9 @@
-# Docusaurus 2
+## 欢迎来到Determination Site
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
+这是一个由某不知名疣体up主提议，曾小皮-ZengXiaoPi制作的下载站。
 
-## Deploy Your Own
+欢迎对本站进行赞助，包括但不限于文件下载服务，域名或者别的之类的。
 
-Deploy your own Docusaurus project with Vercel.
+部分地区下载可能会出现障碍，但大部分情况应该不会。（因为用的是OneDrive For Business）
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
-
-_Live Example: https://docusaurus-2-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-npx create-docusaurus@latest my-website classic
-```
+如果您有想提交的同人，敬请提交Issue。

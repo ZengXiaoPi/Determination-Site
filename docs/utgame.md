@@ -221,20 +221,6 @@ sidebar_position: 1
 
 -----
 
-# Interveintale
-
-中文名：交错传说
-
-## Yu Sans ULB
-
-中文名：Yu Sans 但是  传说之下：最后的呼吸
-
-游戏：起名废
-
-下载链接：[OneDrive直链（一阶段）](https://download.zxpweb.eu.org/%E4%BA%A4%E9%94%99ulb.zip)  [OneDrive直链（三阶段）](https://download.zxpweb.eu.org/yuulbp3.exe)
-
------
-
 # JokeTale
 
 中文名：怪诞秘闻（王牌传说）

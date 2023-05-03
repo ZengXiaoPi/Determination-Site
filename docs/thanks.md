@@ -1,5 +1,5 @@
 ---
-title: 感谢名单
+title: ❤ 感谢名单
 sidebar_position: 6
 ---
 

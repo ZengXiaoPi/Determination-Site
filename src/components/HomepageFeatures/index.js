@@ -16,7 +16,7 @@ const FeatureList = [
     title: '不盈利，不占有',
     description: (
       <>
-        本站全部页面的内容使用CC0 1.0公共领域贡献协议。
+        本站全部页面的内容使用<a href="https://creativecommons.org/publicdomain/zero/1.0/deed.zh">CC0 1.0公共领域贡献协议。</a>
         这也代表我们会将所有的内容贡献给社区。
       </>
     ),

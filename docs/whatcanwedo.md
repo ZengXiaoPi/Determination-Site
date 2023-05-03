@@ -21,6 +21,10 @@ sidebar_position: 4
   - 如果需要，请去 [Github仓库](https://github.com/ZengXiaoPi/Determination-Site) 提交Issue，并附上您的游戏说明，您的名字以及制作团队。
     
   - 如果你进不去Github或者没有Github账号，可以向[1768506869@qq.com](mailto:1768506869@qq.com)发送电子邮件。
+
+- 我们也可以为您提供优质的下载服务。下载速度等同于本站收录的游戏的下载速度。
+
+- 如果您对我们的收录感到不满，十分抱歉，您可以选择让本站删除收录此游戏的内容，再次致以抱歉。
     
 
 ## 您是赞助者？

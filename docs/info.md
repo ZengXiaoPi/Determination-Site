@@ -3,6 +3,10 @@ title: 📕 政策性文件
 sidebar_position: 3
 ---
 
+## 使用协议
+
+请看[Github Repo](https://github.com/ZengXiaoPi/Determination-Site)
+
 ## 不会收录的游戏
 
 - Rhythm Recall相关资源

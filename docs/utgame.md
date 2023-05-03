@@ -17,6 +17,14 @@ sidebar_position: 1
 
 [Github Repo](https://github.com/ZengXiaoPi/Determination-Site)
 
+:::caution
+
+本站的中文名翻译可能会出现不规范的情况。
+
+具体中文名翻译请参考[Undertale Community Wiki（UTCWIKI）](http://utcwiki.com/)。
+
+:::
+
 -----
 
 # CLASSIC！dusttrust

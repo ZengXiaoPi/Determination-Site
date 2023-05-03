@@ -33,6 +33,20 @@ sidebar_position: 1
 
 -----
 
+# CovetTale
+
+中文名：贪图传说
+
+## CovetTale Papyrus Fight
+
+中文名：贪图传说 帕派瑞斯战
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/covettale.zip)
+
+-----
+
 # Delirium Of Aeons
 
 中文名：空惘谵臆：破晓蜚歌
@@ -44,6 +58,20 @@ sidebar_position: 1
 游戏：庄严的承诺
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
+
+-----
+
+# DepartingTale
+
+中文名：启程传说
+
+## DepartingTale Papyrus Fight
+
+中文名：启程传说 帕派瑞斯战
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/departingtale.zip)
 
 -----
 
@@ -65,6 +93,14 @@ sidebar_position: 1
 
 中文名：尘埃传说
 
+## DustTale By MoLuoX
+
+中文名：尘埃传说（衫斯战） by 末落X
+
+游戏：末落X
+
+下载链接：[OneDrive直链（△版本）](https://download.zxpweb.eu.org/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
+
 ## Murder Sans Fight By FDY
 
 中文名：尘埃衫斯战 by FDY
@@ -72,6 +108,20 @@ sidebar_position: 1
 游戏：复读鸭
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/Murder%20Sans%20Fight%20by%20fdy.rar)
+
+-----
+
+# DyingTale
+
+中文名：消亡传说
+
+## DyingTale Sans Fight
+
+中文名：消亡传说 衫斯战
+
+游戏：末落X
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/DyingTale%20By%20MoluoX%20V0.1.1.rar)
 
 -----
 
@@ -107,11 +157,59 @@ sidebar_position: 1
 
 -----
 
-# Ink sans phase3 SHANGHAIVANIA
+# FellStory
+
+中文名：残暴物语
+
+## FellStory Asgore Fight
+
+中文名：残暴物语 艾斯戈尔战
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/fellstory.zip)
+
+-----
+
+# help_tale
+
+中文名：救赎传说
+
+## help_tale Xx_FRESHSANS_xX（寄生虫） Fight By ZhaZha
+
+中文名：救赎传说 Xx_FRESHSANS_xX（寄生虫） 战 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/helptale.zip)
+
+-----
+
+# Ink Sans
+
+## Ink Sans Fight
+
+游戏：南省
+
+下载链接：[OneDrive直链（Windows）](https://download.zxpweb.eu.org/Ink!sans%20Fight%20v0.39.zip) [OneDrive直链（Android）](https://download.zxpweb.eu.org/inksans0.39.apk)
+
+## Ink Sans phase3 SHANGHAIVANIA
 
 游戏：庄严的承诺
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/isp3-zy.zip)
+
+-----
+
+# Instinctale
+
+中文名：人性之上
+
+## Instinctale Papyrus Fight By MoLuoX
+
+中文名：人性之上 帕派瑞斯战 By 末落X
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/Instinctale%20By%20MoluoX.rar)
 
 -----
 
@@ -187,6 +285,20 @@ sidebar_position: 1
 
 -----
 
+# LVTale
+
+中文名：暂无
+
+## LVTale Papyrus Fight By ZhaZha
+
+中文名：LVTale 帕派瑞斯战 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/lvtale.zip)
+
+-----
+
 # ModernSwap
 
 中文名：摩登反转
@@ -201,6 +313,34 @@ sidebar_position: 1
 
 -----
 
+# ModernTale
+
+中文名：摩登传说
+
+## ModernTale Sans Fight By 渣渣
+
+中文名：摩登传说 衫斯战 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/moderntale.zip)
+
+-----
+
+# MouseTale
+
+中文名：老鼠传说
+
+## MouseTale Jerry Fight By ZhaZha
+
+中文名：老鼠传说 杰瑞战 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链（Remake版）](https://download.zxpweb.eu.org/mousetale_remake.zip)
+
+-----
+
 # OverSave-Tale
 
 ## OverSave-Tale 及 附带的FDY大多数游戏
@@ -212,6 +352,48 @@ sidebar_position: 1
 后续完善：秋裤 砂糖
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/OverSave-Tale%200.4.4.rar)
+
+-----
+
+# Revenge : The Unseen Ending
+
+中文名：复仇：不可视结局
+
+## Revenge : The Unseen Ending ACT2 By ZhaZha
+
+中文名：复仇：不可视结局 ACT2 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链（火车王）](https://download.zxpweb.eu.org/revenge%20act2.zip)
+
+-----
+
+# SpongeSwap
+
+中文名：海绵反转
+
+## SpongeSwap By MoLuoX
+
+中文名：海绵反转 By 末落X
+
+游戏：末落X
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
+
+-----
+
+# SwapFell
+
+中文名：反转残暴
+
+## SwapFell Papyrus Fight By ZhaZha
+
+中文名：反转残暴 帕派瑞斯战 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链（Remake版）](https://download.zxpweb.eu.org/swapfell_remake.zip)
 
 -----
 
@@ -237,9 +419,23 @@ sidebar_position: 1
 
 中文名：究极传说 衫斯战
 
-游戏作者：庄严的承诺
+游戏：庄严的承诺
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
+
+-----
+
+# UnderFell
+
+中文名：残暴传说
+
+## UnderFell Sans Fight By ZhaZha
+
+中文名：残暴传说 衫斯战 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underfell.zip)
 
 -----
 
@@ -254,6 +450,42 @@ sidebar_position: 1
 游戏：庄严的承诺
 
 下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underfell-plan.zip)
+
+-----
+
+# UnderSwap
+
+中文名：反转之下
+
+## UnderSwap Sans Fight By ZhaZha
+
+中文名：反转之下 衫斯（蓝莓）战 By 1个渣渣
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underswap_sans.zip)
+
+## UnderSwap Papyrus Fight By MoLuoX
+
+中文名：反转之下 帕派瑞斯战 By 末落X
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
+
+-----
+
+# Undertale : The New Chance
+
+中文名：传说之下：新的事物
+
+## Undertale : The New Chance Sans Fight
+
+中文名：传说之下：新的事物 衫斯战
+
+游戏：1个渣渣
+
+下载链接：[OneDrive直链](https://download.zxpweb.eu.org/tnc.zip)
 
 -----
 

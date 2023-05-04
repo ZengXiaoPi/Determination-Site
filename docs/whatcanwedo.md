@@ -11,7 +11,7 @@ sidebar_position: 4
   
   - 您可以在我们的 [Github仓库](https://github.com/ZengXiaoPi/Determination-Site) 提交Issue，注意说明游戏名，最好附上作者及视频链接。
     
-  - 如果你进不去Github或者没有Github账号，可以向[1768506869@qq.com](mailto:1768506869@qq.com)发送电子邮件。
+  - 如果你进不去Github或者没有Github账号，可以向[support@determination.top](mailto:support@determination.top)发送电子邮件。
     
 
 ## 您是开发者？
@@ -20,7 +20,7 @@ sidebar_position: 4
   
   - 如果需要，请去 [Github仓库](https://github.com/ZengXiaoPi/Determination-Site) 提交Issue，并附上您的游戏说明，您的名字以及制作团队。
     
-  - 如果你进不去Github或者没有Github账号，可以向[1768506869@qq.com](mailto:1768506869@qq.com)发送电子邮件。
+  - 如果你进不去Github或者没有Github账号，可以向[support@determination.top](mailto:support@determination.top)发送电子邮件。
 
 - 我们也可以为您提供优质的下载服务。下载速度等同于本站收录的游戏的下载速度。
 

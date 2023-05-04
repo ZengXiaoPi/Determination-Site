@@ -13,7 +13,7 @@ sidebar_position: 2
 
 | 游戏名 | 难度系数 |
 | --- | --- |
-|     |     |
+| 暂空置    | 暂空置    |
 |     |     |
 |     |     |
 |     |     |
@@ -38,7 +38,15 @@ Undertale Rank可能会不定期更新，以网站内容为准。
 
 注意，Determination Team保留在发现您可能的作弊行为后将您逐出榜单的权利。
 
+Undertale Rank不接受变速，Tas。
+
 你也可以携带别人的视频请求收录。
+
+:::
+
+:::caution
+
+我们不会收录所有Undertale同人的Undertale Rank，只会从其中挑出有挑战性的，弹幕有可玩性的同人。
 
 :::
 

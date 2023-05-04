@@ -7,15 +7,13 @@ sidebar_position: 1
 
 这是一个由某不知名疣体up主提议，[曾小皮-ZengXiaoPi](https://space.bilibili.com/481298570)制作的下载站。
 
-欢迎对本站进行赞助，包括但不限于文件下载服务，域名或者别的之类的。
+欢迎对本站进行赞助。
 
-部分地区下载可能会出现障碍，但大部分情况应该不会。（因为用的是OneDrive For Business）
-
-如果您有想提交的同人，敬请提交Issue。
+如果您有想提交或游玩的同人，敬请提交Issue。
 
 善用Ctrl+F（搜索）功能。
 
-[Github Repo](https://github.com/ZengXiaoPi/Determination-Site)
+手机端点击左上角三横线可以看到其他的一些东西。
 
 :::caution
 
@@ -37,7 +35,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
 
 -----
 
@@ -51,7 +49,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/covettale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/covettale.zip)
 
 -----
 
@@ -65,7 +63,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
 
 -----
 
@@ -79,7 +77,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/departingtale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/departingtale.zip)
 
 -----
 
@@ -93,7 +91,7 @@ sidebar_position: 1
 
 游戏：起名废
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
 
 -----
 
@@ -107,7 +105,7 @@ sidebar_position: 1
 
 游戏：末落X
 
-下载链接：[OneDrive直链（△版本）](https://download.zxpweb.eu.org/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
+下载链接：[OneDrive直链（△版本）](https://dl.determination.top/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
 
 ## Murder Sans Fight By FDY
 
@@ -115,7 +113,7 @@ sidebar_position: 1
 
 游戏：复读鸭
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/Murder%20Sans%20Fight%20by%20fdy.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/Murder%20Sans%20Fight%20by%20fdy.rar)
 
 -----
 
@@ -129,7 +127,7 @@ sidebar_position: 1
 
 游戏：末落X
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/DyingTale%20By%20MoluoX%20V0.1.1.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/DyingTale%20By%20MoluoX%20V0.1.1.rar)
 
 -----
 
@@ -143,7 +141,7 @@ sidebar_position: 1
 
 游戏：希希希土
 
-下载链接：[OneDrive直链（3.0）](https://download.zxpweb.eu.org/edgeedge3.0.zip)
+下载链接：[OneDrive直链（3.0）](https://dl.determination.top/edgeedge3.0.zip)
 
 -----
 
@@ -155,13 +153,13 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/edgetale(3).zip)
+下载链接：[OneDrive直链](https://dl.determination.top/edgetale(3).zip)
 
 ## 庄严战
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
 
 -----
 
@@ -175,7 +173,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/fellstory.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/fellstory.zip)
 
 -----
 
@@ -189,7 +187,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/helptale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/helptale.zip)
 
 -----
 
@@ -199,13 +197,13 @@ sidebar_position: 1
 
 游戏：南省
 
-下载链接：[OneDrive直链（Windows）](https://download.zxpweb.eu.org/Ink!sans%20Fight%20v0.39.zip) [OneDrive直链（Android）](https://download.zxpweb.eu.org/inksans0.39.apk)
+下载链接：[OneDrive直链（Windows）](https://dl.determination.top/Ink!sans%20Fight%20v0.39.zip) [OneDrive直链（Android）](https://dl.determination.top/inksans0.39.apk)
 
 ## Ink Sans phase3 SHANGHAIVANIA
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/isp3-zy.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/isp3-zy.zip)
 
 -----
 
@@ -217,7 +215,7 @@ sidebar_position: 1
 
 中文名：人性之上 帕派瑞斯战 By 末落X
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/Instinctale%20By%20MoluoX.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/Instinctale%20By%20MoluoX.rar)
 
 -----
 
@@ -231,7 +229,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/joketale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/joketale.zip)
 
 ## JokeTale Sans Fight By HolyMirror
 
@@ -239,7 +237,7 @@ sidebar_position: 1
 
 游戏：HolyMirror（Bilibili：HolyMirror5）
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
+下载链接：[OneDrive直链](https://dl.determination.top/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
 
 -----
 
@@ -253,7 +251,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/keepsans%20hard%20mod.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/keepsans%20hard%20mod.zip)
 
 ## KeepTale Sans Fight
 
@@ -261,7 +259,7 @@ sidebar_position: 1
 
 游戏：希希希土
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/keep%20sans%20fight.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/keep%20sans%20fight.zip)
 
 -----
 
@@ -275,7 +273,7 @@ sidebar_position: 1
 
 游戏：起名废
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/usls-eng-3.14.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/usls-eng-3.14.zip)
 
 -----
 
@@ -289,7 +287,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/lvtale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/lvtale.zip)
 
 -----
 
@@ -303,7 +301,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip)
 
 -----
 
@@ -317,7 +315,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/moderntale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/moderntale.zip)
 
 -----
 
@@ -331,7 +329,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链（Remake版）](https://download.zxpweb.eu.org/mousetale_remake.zip)
+下载链接：[OneDrive直链（Remake版）](https://dl.determination.top/mousetale_remake.zip)
 
 -----
 
@@ -345,7 +343,7 @@ sidebar_position: 1
 
 后续完善：秋裤 砂糖
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/OverSave-Tale%200.4.4.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/OverSave-Tale%200.4.4.rar)
 
 -----
 
@@ -359,7 +357,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链（火车王）](https://download.zxpweb.eu.org/revenge%20act2.zip)
+下载链接：[OneDrive直链（火车王）](https://dl.determination.top/revenge%20act2.zip)
 
 -----
 
@@ -373,7 +371,7 @@ sidebar_position: 1
 
 游戏：末落X
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
+下载链接：[OneDrive直链](https://dl.determination.top/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
 
 -----
 
@@ -387,7 +385,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链（Remake版）](https://download.zxpweb.eu.org/swapfell_remake.zip)
+下载链接：[OneDrive直链（Remake版）](https://dl.determination.top/swapfell_remake.zip)
 
 -----
 
@@ -401,7 +399,7 @@ sidebar_position: 1
 
 游戏：复读鸭
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/TS!underswap%20papyrus%20fight%20by%20fdy.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/TS!underswap%20papyrus%20fight%20by%20fdy.rar)
 
 -----
 
@@ -415,7 +413,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
 
 -----
 
@@ -429,7 +427,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underfell.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/underfell.zip)
 
 -----
 
@@ -443,7 +441,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underfell-plan.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/underfell-plan.zip)
 
 -----
 
@@ -457,7 +455,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/underswap_sans.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/underswap_sans.zip)
 
 ## UnderSwap Papyrus Fight By MoLuoX
 
@@ -465,7 +463,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
+下载链接：[OneDrive直链](https://dl.determination.top/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
 
 -----
 
@@ -479,7 +477,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/tnc.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/tnc.zip)
 
 -----
 
@@ -493,7 +491,7 @@ sidebar_position: 1
 
 游戏：起名废
 
-下载链接：[OneDrive直链（未优化版）](https://download.zxpweb.eu.org/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive直链（优化版）](https://download.zxpweb.eu.org/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
+下载链接：[OneDrive直链（未优化版）](https://dl.determination.top/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive直链（优化版）](https://dl.determination.top/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
 
 -----
 
@@ -503,4 +501,4 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://download.zxpweb.eu.org/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)

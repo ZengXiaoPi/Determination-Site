@@ -27,15 +27,25 @@ sidebar_position: 1
 
 # ChangedSwap
 
+:::caution
+
+包含furry内容。
+
+:::
+
 中文名：转变反转
 
 ## Lin Fight (WIP?)
 
 中文名：Lin战
 
+游戏：龙QAVC
+
 下载链接：[OneDrive直链](https://dl.determination.top/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
 
 ## 喵鲨战
+
+游戏：龙QAVC
 
 下载链接：[OneDrive直链](https://dl.determination.top/CHANGEDSWAP%20&%20all%20ends.zip)
 

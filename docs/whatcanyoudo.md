@@ -20,6 +20,6 @@ sidebar_position: 5
   
   - [爱发电](https://afdian.net/a/DTDownSite)
     
-  - [Vivo 50](https://download.zxpweb.eu.org/reward.png?preview)
+  - [Vivo 50](https://www.determination.top/img/reward.png)
     
-  - 其他方面的捐助？发送邮件至[1768506869@qq.com](mailto:1768506869@qq.com)
+  - 其他方面的捐助？发送邮件至[support@determination.top](mailto:support@determination.top)

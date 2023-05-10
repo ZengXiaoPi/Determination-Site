@@ -70,12 +70,23 @@ Undertale Rank不接受变速，Tas。
 
 ## Rank
 
-### Gone！Sans（Delirium Of Aeons Sans） Fight
+<details><summary>Gone！Sans（Delirium Of Aeons Sans） Fight</summary>  
+
+:::info
+
+虚罔的难度仅对伤害有影响，对弹幕无影响，所以对于全部闪避的难度不进行注明。
+
+:::
 
 | 排名  | 姓名  | 成就  | 时间  |
 | --- | --- | --- | --- |
 | 第一名 | 我是小萌新 | 全部闪避 | 2022-1-2 |
 | 第二名 | Larapra | 全部闪避 | 2022-11-25 |
 | 第三名 | Wild_Asriel_X | 全部闪避 | 2023-05-02 |
-| 第四名 |     |     |     |
-| 第五名 |     |     |     |
+| 第四名 | 热血707 | fell难度无药 | 2021-10-24 |
+| 第五名 | Arenegade_L | fell难度无药 | 已删视频，具体时间不明 |
+| 第六名 | ZYTZ | fell难度无药 | 2021-11-05 |
+| 第七名 | WTD | fell难度无药 | 2021-11-06 |
+| 第八名 | 冷秋 | fell难度无药 | 2021-11-07 |
+
+</details>

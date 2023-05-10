@@ -9,18 +9,19 @@ sidebar_position: 2
 
 **难度系数**均为Determination Team自主定数，可能存在不准确，欢迎纠正。
 
+难度系数皆为全部闪避难度。
+
 ## 难度系数
 
 | 游戏名 | 难度系数 |
 | --- | --- |
-| 暂空置    | 暂空置    |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+| Ink Sans phase3 SHANGHAIVANIA    | 80  |
+|  Sudden Change Sans Fight By FDY   | 90 |
+| EdgeTale 重制版 Sans Fight    | 93    |
+| EdgeEdge Sans Fight   | 93.5 |
+| Gone！Sans（Delirium Of Aeons Sans） Fight    | 95 |
+| Underfell ! Plan Sans Fight | 95 |
+| FDY! DT phase3     | 99 |
 
 # Undertale Rank
 

@@ -14,4 +14,6 @@ sidebar_position: 7
 
 主网站：https://www.determination.top/
 
+主网站 With Cloudflare CDN：https://cdn.determination.top
+
 备用网站：http://dt.determination.top/

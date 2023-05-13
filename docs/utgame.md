@@ -41,13 +41,13 @@ sidebar_position: 1
 
 游戏：龙QAVC
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/CHANGEDSWAP%20LIN%20remake%200.114514.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
 
 ## 喵鲨战
 
 游戏：龙QAVC
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20&%20all%20ends.zip)
 
 -----
 
@@ -61,7 +61,7 @@ sidebar_position: 1
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/CTT2.rar)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/CTT2.apk)
+下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/CTT2.rar)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/CTT2.apk)  [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar)  [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk)
 
 -----
 
@@ -75,7 +75,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
 
 -----
 
@@ -89,7 +89,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/covettale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/covettale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/covettale.zip)
 
 -----
 
@@ -103,7 +103,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
 
 -----
 
@@ -117,7 +117,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/departingtale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/departingtale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/departingtale.zip)
 
 -----
 
@@ -131,7 +131,7 @@ sidebar_position: 1
 
 游戏：起名废
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
 
 -----
 
@@ -145,7 +145,7 @@ sidebar_position: 1
 
 游戏：末落X
 
-下载链接：[OneDrive直链（△版本）](https://dl.determination.top/zxp/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
+下载链接：[OneDrive直链（△版本）](https://dl.determination.top/zxp/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
 
 ## Murder Sans Fight By FDY
 
@@ -153,7 +153,7 @@ sidebar_position: 1
 
 游戏：复读鸭
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Murder%20Sans%20Fight%20by%20fdy.rar)
 
 -----
 
@@ -167,7 +167,7 @@ sidebar_position: 1
 
 游戏：末落X
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/DyingTale%20By%20MoluoX%20V0.1.1.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/DyingTale%20By%20MoluoX%20V0.1.1.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DyingTale%20By%20MoluoX%20V0.1.1.rar)
 
 -----
 
@@ -181,7 +181,7 @@ sidebar_position: 1
 
 游戏：希希希土
 
-下载链接：[OneDrive直链（3.0）](https://dl.determination.top/zxp/edgeedge3.0.zip)
+下载链接：[OneDrive直链（3.0）](https://dl.determination.top/zxp/edgeedge3.0.zip)  [OneDrive CF Worker反代（3.0）](https://dl.determination.top/zxpcdn/edgeedge3.0.zip)
 
 -----
 
@@ -193,13 +193,13 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/edgetale(3).zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/edgetale(3).zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/edgetale(3).zip)
 
 ## 庄严战
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E5%BA%84%E4%B8%A5%E6%88%98.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
 
 -----
 
@@ -213,7 +213,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/fellstory.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/fellstory.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/fellstory.zip)
 
 -----
 
@@ -227,7 +227,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/helptale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/helptale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/helptale.zip)
 
 -----
 
@@ -241,7 +241,7 @@ sidebar_position: 1
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/lb/H!tale_sans_fight.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/lb/H!tale_sans_fight.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/H!tale_sans_fight.zip)
 
 -----
 
@@ -251,13 +251,13 @@ sidebar_position: 1
 
 游戏：南省
 
-下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/Ink!sans%20Fight%20v0.39.zip) [OneDrive直链（Android）](https://dl.determination.top/zxp/inksans0.39.apk)
+下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/Ink!sans%20Fight%20v0.39.zip) [OneDrive直链（Android）](https://dl.determination.top/zxp/inksans0.39.apk) [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/Ink!sans%20Fight%20v0.39.zip) [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/inksans0.39.apk)
 
 ## Ink Sans phase3 SHANGHAIVANIA
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/isp3-zy.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/isp3-zy.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/isp3-zy.zip)
 
 -----
 
@@ -269,7 +269,7 @@ sidebar_position: 1
 
 中文名：人性之上 帕派瑞斯战 By 末落X
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/Instinctale%20By%20MoluoX.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/Instinctale%20By%20MoluoX.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Instinctale%20By%20MoluoX.rar)
 
 -----
 
@@ -283,7 +283,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/joketale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/joketale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/joketale.zip)
 
 ## JokeTale Sans Fight By HolyMirror
 
@@ -291,7 +291,7 @@ sidebar_position: 1
 
 游戏：HolyMirror（Bilibili：HolyMirror5）
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/JokeTale-By%20B%E7%AB%99HolyMirror5.html)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
 
 -----
 
@@ -305,7 +305,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/keepsans%20hard%20mod.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/keepsans%20hard%20mod.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/keepsans%20hard%20mod.zip)
 
 ## KeepTale Sans Fight
 
@@ -313,7 +313,7 @@ sidebar_position: 1
 
 游戏：希希希土
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/keep%20sans%20fight.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/keep%20sans%20fight.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/keep%20sans%20fight.zip)
 
 -----
 
@@ -327,7 +327,7 @@ sidebar_position: 1
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip)
+下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.apk)  [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip)  [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.apk)
 
 -----
 
@@ -341,7 +341,7 @@ sidebar_position: 1
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.zip)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.apk) [OneDrive直链（一阶段DEMO？）](https://dl.determination.top/zxp/lb/%E7%94%9F%E5%91%BD%E9%A2%86%E5%9F%9F%E4%B8%80%E9%98%B6%E6%AE%B5DEMO.zip)
+下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.zip)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.apk) [OneDrive直链（一阶段DEMO？）](https://dl.determination.top/zxp/lb/%E7%94%9F%E5%91%BD%E9%A2%86%E5%9F%9F%E4%B8%80%E9%98%B6%E6%AE%B5DEMO.zip)  [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.zip)  [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.apk)  [OneDrive CF Worker反代（一阶段Demo？）](https://dl.determination.top/zxpcdn/lb/%E7%94%9F%E5%91%BD%E9%A2%86%E5%9F%9F%E4%B8%80%E9%98%B6%E6%AE%B5DEMO.zip)
 
 -----
 
@@ -355,7 +355,7 @@ sidebar_position: 1
 
 游戏：起名废
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/usls-eng-3.14.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/usls-eng-3.14.zip) [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/usls-eng-3.14.zip)
 
 -----
 
@@ -369,7 +369,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/lvtale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/lvtale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lvtale.zip)
 
 -----
 
@@ -383,7 +383,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip)
 
 -----
 
@@ -397,7 +397,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/moderntale.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/moderntale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/moderntale.zip)
 
 -----
 
@@ -411,7 +411,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链（Remake版）](https://dl.determination.top/zxp/mousetale_remake.zip)
+下载链接：[OneDrive直链（Remake版）](https://dl.determination.top/zxp/mousetale_remake.zip)  [OneDrive CF Worker反代（Remake版）](https://dl.determination.top/zxp/mousetale_remake.zip)
 
 -----
 
@@ -425,7 +425,7 @@ sidebar_position: 1
 
 后续完善：秋裤 砂糖
 
-下载链接：[OneDrive直链（v0.44）（最新版）](https://dl.determination.top/zxp/OverSave-Tale%200.4.4.rar) [OneDrive直链（v0.16）](https://dl.determination.top/zxp/OverSave-Tale%200.16.rar)
+下载链接：[OneDrive直链（v0.44）（最新版）](https://dl.determination.top/zxp/OverSave-Tale%200.4.4.rar) [OneDrive直链（v0.16）](https://dl.determination.top/zxp/OverSave-Tale%200.16.rar)  [OneDrive CF Worker反代（v0.44）](https://dl.determination.top/zxpcdn/OverSave-Tale%200.4.4.rar)  [OneDrive CF Worker反代（v0.16）](https://dl.determination.top/zxp/OverSave-Tale%200.16.rar)
 
 -----
 
@@ -439,7 +439,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链（火车王）](https://dl.determination.top/zxp/revenge%20act2.zip)
+下载链接：[OneDrive直链（火车王）](https://dl.determination.top/zxp/revenge%20act2.zip)  [OneDrive CF Worker反代（火车王）](https://dl.determination.top/zxpcdn/revenge%20act2.zip)
 
 -----
 
@@ -453,7 +453,7 @@ sidebar_position: 1
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.zip)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.apk)
+下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.zip)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.apk)  [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.zip)  [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.apk)
 
 -----
 
@@ -467,7 +467,7 @@ sidebar_position: 1
 
 游戏：末落X
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
 
 -----
 
@@ -481,21 +481,21 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链（Remake版）](https://dl.determination.top/zxp/swapfell_remake.zip)
+下载链接：[OneDrive直链（Remake版）](https://dl.determination.top/zxp/swapfell_remake.zip)  [OneDrive CF Worker反代（Remake版）](https://dl.determination.top/zxpcdn/swapfell_remake.zip)
 
 -----
 
 # TS!UnderSwap
 
-中文名：团队反转！反转之下
+中文名：命运反转！反转之下
 
 ## TS!UnderSwap Papyrus Fight By FDY
 
-中文名：团队反转！反转之下 帕派瑞斯战
+中文名：命运反转！反转之下 帕派瑞斯战
 
 游戏：复读鸭
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/TS!underswap%20papyrus%20fight%20by%20fdy.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/TS!underswap%20papyrus%20fight%20by%20fdy.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/TS!underswap%20papyrus%20fight%20by%20fdy.rar)
 
 -----
 
@@ -509,7 +509,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
 
 -----
 
@@ -523,7 +523,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/underfell.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/underfell.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell.zip)
 
 -----
 
@@ -537,7 +537,7 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/underfell-plan.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/underfell-plan.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell-plan.zip)
 
 -----
 
@@ -551,7 +551,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/underswap_sans.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/underswap_sans.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underswap_sans.zip)
 
 ## UnderSwap Papyrus Fight By MoLuoX
 
@@ -559,7 +559,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
 
 -----
 
@@ -573,7 +573,7 @@ sidebar_position: 1
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/tnc.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/tnc.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/tnc.zip)
 
 -----
 
@@ -587,7 +587,7 @@ sidebar_position: 1
 
 游戏：起名废
 
-下载链接：[OneDrive直链（未优化版）](https://dl.determination.top/zxp/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive直链（优化版）](https://dl.determination.top/zxp/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
+下载链接：[OneDrive直链（未优化版）](https://dl.determination.top/zxp/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive直链（优化版）](https://dl.determination.top/zxp/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive CF Worker反代（未优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive CF Worker反代（优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
 
 ## WorldChange Sans Fight By 洛白
 
@@ -595,7 +595,7 @@ sidebar_position: 1
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/lb/WorldChange_Sans_Fight_Phase1.zip)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/lb/WorldChange_Sans_Fight_Phase1.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/WorldChange_Sans_Fight_Phase1.zip)
 
 -----
 
@@ -605,4 +605,4 @@ sidebar_position: 1
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)
+下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)

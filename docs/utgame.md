@@ -5,10 +5,6 @@ sidebar_position: 1
 
 欢迎来到Determination Site！
 
-这是一个由某不知名疣体up主提议，[曾小皮-ZengXiaoPi](https://space.bilibili.com/481298570)制作的下载站。
-
-欢迎对本站进行赞助。
-
 如果您有想提交或游玩的同人，敬请提交Issue。
 
 善用Ctrl+F（搜索）功能。

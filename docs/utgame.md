@@ -60,7 +60,7 @@ Edge浏览器：右键下载任务点击保留。
 下载链接：
 
 <p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/rsJTtD5CzIms.zip" class="buttonDownload">普通节点下载</a></p>
-  
+
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20&%20all%20ends.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20with%20all%20ends.zip)
 
 -----

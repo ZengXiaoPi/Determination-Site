@@ -357,13 +357,29 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：南省
 
-下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/Ink!sans%20Fight%20v0.39.zip) [OneDrive直链（Android）](https://dl.determination.top/zxp/inksans0.39.apk) [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/Ink!sans%20Fight%20v0.39.zip) [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/inksans0.39.apk)
+下载链接：
+
+### Windows 版
+
+<p><a href="https://dl.determination.top/zxp/Ink!sans%20Fight%20v0.39.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/dTiqPFvErBxe.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/Ink!sans%20Fight%20v0.39.zip) | [备用节点1](https://download.determination.top/files/Ink!sans%20Fight%20v0.39.zip)
+
+### Android版
+
+<p><a href="https://dl.determination.top/zxp/inksans0.39.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/0MRiDY3FEEaM.apk" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/inksans0.39.apk) | [备用节点1](https://download.determination.top/files/inksans0.39.apk)
 
 ## Ink Sans phase3 SHANGHAIVANIA
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/isp3-zy.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/isp3-zy.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/isp3-zy.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Bf5cGPnOcU78.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/isp3-zy.zip) | [备用节点1](https://download.determination.top/files/isp3-zy.zip)
 
 -----
 
@@ -375,7 +391,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 中文名：人性之上 帕派瑞斯战 By 末落X
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/Instinctale%20By%20MoluoX.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Instinctale%20By%20MoluoX.rar)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/Instinctale%20By%20MoluoX.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/cxhj6BetsyJz.rar" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Instinctale%20By%20MoluoX.rar) | [备用节点1](https://download.determination.top/files/Instinctale%20By%20MoluoX.rar)
 
 -----
 
@@ -389,15 +409,29 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/joketale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/joketale.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/joketale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/6G17pjjcxIip.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/joketale.zip) | [备用节点1](https://download.determination.top/files/joketale.zip)
 
 ## JokeTale Sans Fight By HolyMirror
+
+:::info
+
+本游戏使用Scratch平台并导出至.html文件。只需要用浏览器打开即可。
+
+:::
 
 中文名：怪诞秘闻（王牌传说）衫斯战 By HolyMirror
 
 游戏：HolyMirror（Bilibili：HolyMirror5）
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/JokeTale-By%20B%E7%AB%99HolyMirror5.html)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/JokeTale-By%20B%E7%AB%99HolyMirror5.html" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/TDF595AXmnLv.html" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/JokeTale-By%20B%E7%AB%99HolyMirror5.html) | [备用节点1](https://download.determination.top/files/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
 
 -----
 
@@ -411,7 +445,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/keepsans%20hard%20mod.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/keepsans%20hard%20mod.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/keepsans%20hard%20mod.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/iUpP3qv1rAIq.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/keepsans%20hard%20mod.zip) | [备用节点1](https://download.determination.top/files/keepsans%20hard%20mod.zip)
 
 ## KeepTale Sans Fight
 

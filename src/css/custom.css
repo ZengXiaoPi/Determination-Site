@@ -7,8 +7,8 @@
 /* You can override the default Infima variables here. */
 
 :root {
-  --ifm-color-primary: #F44336;
-  --ifm-color-primary-dark: #F44336;
+  --ifm-color-primary: #2e8555;
+  --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
   --ifm-color-primary-light: #33925d;
@@ -33,14 +33,14 @@
 .buttonDownload {
     height: 46px;
     padding: 10px 24px;
-    color: #E57373;
+    color: #2e8555;
     font-size: 16px;
     line-height: 46px;
-    border: 1px solid #E57373;
+    border: 1px solid #2e8555;
     border-radius: 6px;
 }
 
 html[data-theme='dark'] .buttonDownload {
-    color: #F44336;
-    border-color: #F44336;
+    color: #277148;
+    border-color: #277148;
 }

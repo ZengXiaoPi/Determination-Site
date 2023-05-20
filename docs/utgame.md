@@ -209,7 +209,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：末落X
 
-下载链接：[OneDrive直链（△版本）](https://dl.determination.top/zxp/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/LAP29qQ21rlq.rar" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar) | [备用节点1](https://download.determination.top/files/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
 
 ## Murder Sans Fight By FDY
 
@@ -217,7 +221,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：复读鸭
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Murder%20Sans%20Fight%20by%20fdy.rar)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/uDJPcMYDVB0v.rar"" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Murder%20Sans%20Fight%20by%20fdy.rar) | [备用节点1](https://download.determination.top/files/Murder%20Sans%20Fight%20by%20fdy.rar)
 
 -----
 

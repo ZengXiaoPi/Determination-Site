@@ -29,3 +29,18 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.buttonDownload {
+    height: 46px;
+    padding: 10px 24px;
+    color: #8E4BBC;
+    font-size: 16px;
+    line-height: 46px;
+    border: 1px solid #8E4BBC;
+    border-radius: 6px;
+}
+
+html[data-theme='dark'] .buttonDownload {
+    color: #b990db;
+    border-color: #b990db;
+}

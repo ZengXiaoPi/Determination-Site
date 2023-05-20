@@ -27,7 +27,7 @@ SHA256用于校验文件，如果你不知道如何使用，可以忽略。
 
 :::caution
 
-本站提供多个下载节点。
+本站提供多个下载节点。如果出现问题请[发送邮件至Determination Site](mailto:support@determination.top)
 
 注意，普通节点下载时可能会出现“无法安全下载”，暂时没有解决方案。
 
@@ -59,8 +59,6 @@ Edge浏览器：右键下载任务点击保留。
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20LIN%20remake%200.114514.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
 
-SHA256：38edbf1c3a0197852b96d7cd43a22a6855bf3867ac06d52afe5dbe28fcd167c1
-
 ## 喵鲨战
 
 游戏：龙QAVC
@@ -70,8 +68,6 @@ SHA256：38edbf1c3a0197852b96d7cd43a22a6855bf3867ac06d52afe5dbe28fcd167c1
 <p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/rsJTtD5CzIms.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20&%20all%20ends.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20with%20all%20ends.zip)
-
-SHA256：3a25ba0858892e54f9e37b38d5fcf94895e13cb04f8388f5b3497defd8434bb6
 
 -----
 
@@ -93,15 +89,11 @@ SHA256：3a25ba0858892e54f9e37b38d5fcf94895e13cb04f8388f5b3497defd8434bb6
 
 [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar) | [备用节点1](https://download.determination.top/files/CTT2.rar)
 
-SHA256：6e63aea46cfe753da6904e8c48e21c9380ae66c6688e0d37b6ce33da88c67479
-
 ### Android版
   
 <p><a href="https://dl.determination.top/zxp/lb/CTT2.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/weMdDNq4zWzM.apk" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk) | [备用节点1](https://download.determination.top/files/CTT2.apk)
-
-SHA256：9249f70dd28ba9510fe14208a5fc434eec172494387445a6daa7f0cba1ed87b9
 
 -----
 
@@ -121,8 +113,6 @@ SHA256：9249f70dd28ba9510fe14208a5fc434eec172494387445a6daa7f0cba1ed87b9
   
 <p><a href="https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip">OneDrive CF Worker反代</a> | <a href="https://download.determination.top/files/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip">备用节点1</a></p>
 
-SHA256：edd957cfbc773e68ae1f779fac7dea4ce541c6696ef68b768f1b337a5913e3d2
-
 -----
 
 # CovetTale
@@ -140,8 +130,6 @@ SHA256：edd957cfbc773e68ae1f779fac7dea4ce541c6696ef68b768f1b337a5913e3d2
 <p><a href="https://dl.determination.top/zxp/covettale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/nUuKMFoKFOaA.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/covettale.zip) | [备用节点1](https://download.determination.top/files/covettale.zip)
-
-SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 -----
 
@@ -460,6 +448,7 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 下载链接：
 
 <p><a href="https://dl.determination.top/zxp/keep%20sans%20fight.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/D84iSg0rFEWD.zip" class="buttonDownload">普通节点下载</a></p>
+
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/keep%20sans%20fight.zip) | [备用节点1](https://download.determination.top/files/keep%20sans%20fight.zip)
 
 -----
@@ -635,6 +624,7 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 ### v0.44 目前最新版
 
 <p><a href="https://dl.determination.top/zxp/OverSave-Tale%200.4.4.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/OIp6glcfj2Qm.rar" class="buttonDownload">普通节点下载</a></p>
+
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/OverSave-Tale%200.4.4.rar) | [备用节点1](https://download.determination.top/files/OverSave-Tale%200.4.4.rar)
 
 ### v0.16
@@ -757,7 +747,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/F2rzAlh0ksvq.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip) | [备用节点1](https://download.determination.top/files/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
 
 -----
 
@@ -771,7 +765,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/underfell.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/underfell.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Jb93cRXetnIG.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell.zip) | [备用节点1](https://download.determination.top/files/underfell.zip)
 
 -----
 
@@ -785,7 +783,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/underfell-plan.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell-plan.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/underfell-plan.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Fqo55ip8hMF1.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell-plan.zip) | [备用节点1](https://download.determination.top/files/underfell-plan.zip)
 
 -----
 
@@ -799,7 +801,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/underswap_sans.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underswap_sans.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/underswap_sans.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/6OGWmSU6euTV.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underswap_sans.zip) | [备用节点1](https://download.determination.top/files/underswap_sans.zip)
 
 ## UnderSwap Papyrus Fight By MoLuoX
 
@@ -807,7 +813,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/k7qWT9wz4W7Z.exe" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe) | [备用节点1](https://download.determination.top/files/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
 
 -----
 
@@ -821,7 +831,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/tnc.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/tnc.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/tnc.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/LWGmni5Zhlol.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/tnc.zip) | [备用节点1](https://download.determination.top/files/tnc.zip)
 
 -----
 
@@ -835,7 +849,19 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：起名废
 
-下载链接：[OneDrive直链（未优化版）](https://dl.determination.top/zxp/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive直链（优化版）](https://dl.determination.top/zxp/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive CF Worker反代（未优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)  [OneDrive CF Worker反代（优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
+下载链接：
+
+### 未优化版
+
+<p><a href="https://dl.determination.top/zxp/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/vo07BHNn6yya.exe" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代（未优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe) | [备用节点1](https://download.determination.top/files/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
+
+### 优化版
+
+<p><a href="https://dl.determination.top/zxp/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/cD06073Hjh9k.exe" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代（优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe) | [备用节点1](https://download.determination.top/files/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
 
 ## WorldChange Sans Fight By 洛白
 
@@ -843,7 +869,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/lb/WorldChange_Sans_Fight_Phase1.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/WorldChange_Sans_Fight_Phase1.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/lb/WorldChange_Sans_Fight_Phase1.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/SKy0Z42yY15K.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/WorldChange_Sans_Fight_Phase1.zip) | [备用节点1](https://download.determination.top/files/lb/WorldChange_Sans_Fight_Phase1.zip)
 
 -----
 
@@ -853,4 +883,8 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/H2KBbKkQH8L8.rar" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar) |[备用节点1](https://download.determination.top/files/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)

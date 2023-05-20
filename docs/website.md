@@ -8,12 +8,14 @@ sidebar_position: 7
 
 :::info
 
-如果没有特殊情况，建议使用主网站
+如果没有特殊情况，建议使用主网站。
 
 :::
 
-主网站：https://www.determination.top/
+主网站 By Vercel：https://www.determination.top/
 
-主网站 With Cloudflare CDN：https://cdn.determination.top
+主网站 By Vercel With Cloudflare CDN：https://cdn.determination.top
 
-备用网站：http://dt.determination.top/
+备用网站 By Netlify：http://dt.determination.top/
+
+备用网站 By CloudFlare Pages：https://love.determination.top/

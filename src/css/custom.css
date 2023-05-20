@@ -33,14 +33,14 @@
 .buttonDownload {
     height: 46px;
     padding: 10px 24px;
-    color: #EF9A9A;
+    color: #E57373;
     font-size: 16px;
     line-height: 46px;
-    border: 1px solid #EF9A9A;
+    border: 1px solid #E57373;
     border-radius: 6px;
 }
 
 html[data-theme='dark'] .buttonDownload {
-    color: #b990db;
-    border-color: #b990db;
+    color: #F44336;
+    border-color: #F44336;
 }

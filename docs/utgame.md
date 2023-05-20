@@ -307,7 +307,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/fellstory.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/fellstory.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/fellstory.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/fBfp7H6PVsfU.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/fellstory.zip) | [备用节点1](https://download.determination.top/files/fellstory.zip)
 
 -----
 
@@ -321,7 +325,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/helptale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/helptale.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/helptale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/fBfp7H6PVsfU.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/helptale.zip) | [备用节点1](https://download.determination.top/files/helptale.zip)
 
 -----
 
@@ -335,7 +343,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/lb/H!tale_sans_fight.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/H!tale_sans_fight.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/lb/H!tale_sans_fight.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/JbLgYjuTkags.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/H!tale_sans_fight.zip) | [备用节点1](https://download.determination.top/files/lb/H!tale_sans_fight.zip)
 
 -----
 

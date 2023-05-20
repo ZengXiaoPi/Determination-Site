@@ -269,17 +269,31 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 中文名：刀刃传说
 
-## EdgeTale Sans Fight
+## EdgeTale Full Version Game
+
+中文名：刀刃传说 完整版本游戏
+
+~~其实不是完整游戏~~
+
+包含：狗夫妇，托丽尔，**Sans一二三周目战斗**
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/edgetale(3).zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/edgetale(3).zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/edgetale(3).zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/xrdiGs5DluXH.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/edgetale(3).zip) | [备用节点1](https://download.determination.top/files/edgetale(3).zip)
 
 ## 庄严战
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E5%BA%84%E4%B8%A5%E6%88%98.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/%E5%BA%84%E4%B8%A5%E6%88%98.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/q0KfGrrTypUi.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%BA%84%E4%B8%A5%E6%88%98.zip) | [备用节点1](https://download.determination.top/files/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
 
 -----
 

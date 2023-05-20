@@ -223,7 +223,7 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/uDJPcMYDVB0v.rar"" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/uDJPcMYDVB0v.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Murder%20Sans%20Fight%20by%20fdy.rar) | [备用节点1](https://download.determination.top/files/Murder%20Sans%20Fight%20by%20fdy.rar)
 
@@ -239,7 +239,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：末落X
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/DyingTale%20By%20MoluoX%20V0.1.1.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DyingTale%20By%20MoluoX%20V0.1.1.rar)
+下载链接：
+  
+<p><a href="https://dl.determination.top/zxp/DyingTale%20By%20MoluoX%20V0.1.1.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/UZRbvLUzItba.rar" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DyingTale%20By%20MoluoX%20V0.1.1.rar) | [备用节点1](https://download.determination.top/files/DyingTale%20By%20MoluoX%20V0.1.1.rar)
 
 -----
 
@@ -253,7 +257,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：希希希土
 
-下载链接：[OneDrive直链（3.0）](https://dl.determination.top/zxp/edgeedge3.0.zip)  [OneDrive CF Worker反代（3.0）](https://dl.determination.top/zxpcdn/edgeedge3.0.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/edgeedge3.0.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/OiCXnplnOSYD.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代（3.0）](https://dl.determination.top/zxpcdn/edgeedge3.0.zip) | [备用节点1](https://download.determination.top/files/edgeedge3.0.zip)
 
 -----
 

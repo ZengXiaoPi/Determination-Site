@@ -11,6 +11,12 @@ sidebar_position: 1
 
 手机端点击左上角三横线可以看到其他的一些东西。
 
+:::info
+
+SHA256用于校验文件，如果你不知道如何使用，可以忽略。
+
+:::
+
 :::caution
 
 本站的中文名翻译可能会出现不规范的情况。
@@ -53,6 +59,8 @@ Edge浏览器：右键下载任务点击保留。
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20LIN%20remake%200.114514.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
 
+SHA256：38edbf1c3a0197852b96d7cd43a22a6855bf3867ac06d52afe5dbe28fcd167c1
+
 ## 喵鲨战
 
 游戏：龙QAVC
@@ -62,6 +70,8 @@ Edge浏览器：右键下载任务点击保留。
 <p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/rsJTtD5CzIms.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20&%20all%20ends.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20with%20all%20ends.zip)
+
+SHA256：3a25ba0858892e54f9e37b38d5fcf94895e13cb04f8388f5b3497defd8434bb6
 
 -----
 
@@ -83,11 +93,15 @@ Edge浏览器：右键下载任务点击保留。
 
 [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar) | [备用节点1](https://download.determination.top/files/CTT2.rar)
 
+SHA256：6e63aea46cfe753da6904e8c48e21c9380ae66c6688e0d37b6ce33da88c67479
+
 ### Android版
   
 <p><a href="https://dl.determination.top/zxp/lb/CTT2.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/weMdDNq4zWzM.apk" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk) | [备用节点1](https://download.determination.top/files/CTT2.apk)
+
+SHA256：9249f70dd28ba9510fe14208a5fc434eec172494387445a6daa7f0cba1ed87b9
 
 -----
 
@@ -107,6 +121,8 @@ Edge浏览器：右键下载任务点击保留。
   
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip) | [备用节点1](https://download.determination.top/files/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
 
+SHA256：edd957cfbc773e68ae1f779fac7dea4ce541c6696ef68b768f1b337a5913e3d2
+
 -----
 
 # CovetTale
@@ -125,6 +141,8 @@ Edge浏览器：右键下载任务点击保留。
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/covettale.zip) | [备用节点1](https://download.determination.top/files/covettale.zip)
 
+SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
+
 -----
 
 # Delirium Of Aeons
@@ -137,7 +155,11 @@ Edge浏览器：右键下载任务点击保留。
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/RVileSbgAcwy.rar
+
+[OneDrive直链](https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
 
 -----
 

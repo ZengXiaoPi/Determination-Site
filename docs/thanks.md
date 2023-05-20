@@ -9,7 +9,7 @@ sidebar_position: 6
 - 感谢 Undertale社区 的各位游戏开发者以及各位Up主。
 - 感谢虾萌教的群u的支持。
 
-- 本网站大部分样式来自 [微光 Lowlight](https://lowi.ro/) 。再次对[微光 Lowlight](https://lowi.ro/)致以真挚感谢。
+本网站大部分样式来自 [微光 Lowlight](https://lowi.ro/) 。再次对[微光 Lowlight](https://lowi.ro/)致以真挚感谢。
 
 微光 Lowlight 的 MIT 许可证
 ```

@@ -119,7 +119,7 @@ SHA256：9249f70dd28ba9510fe14208a5fc434eec172494387445a6daa7f0cba1ed87b9
 
 <p><a href="https://dl.determination.top/zxp/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Y66NZIlL5auL.zip" class="buttonDownload">普通节点下载</a></p>
   
-[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip) | [备用节点1](https://download.determination.top/files/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
+<p><a href="https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip">OneDrive CF Worker反代</a> | <a href="https://download.determination.top/files/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip">备用节点1</a></p>
 
 SHA256：edd957cfbc773e68ae1f779fac7dea4ce541c6696ef68b768f1b337a5913e3d2
 
@@ -194,7 +194,7 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 下载链接：
 
 <p><a href="https://dl.determination.top/zxp/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/d1VVXyForXGU.zip" class="buttonDownload">普通节点下载</a></p>
- 
+
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip) | [备用节点1](https://download.determination.top/files/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
 
 -----

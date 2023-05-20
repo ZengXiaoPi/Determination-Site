@@ -101,7 +101,11 @@ Edge浏览器：右键下载任务点击保留。
 
 游戏：庄严的承诺
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Y66NZIlL5auL.zip" class="buttonDownload">普通节点下载</a></p>
+  
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip) | [备用节点1](https://download.determination.top/files/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip)
 
 -----
 
@@ -115,7 +119,11 @@ Edge浏览器：右键下载任务点击保留。
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/covettale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/covettale.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/covettale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/nUuKMFoKFOaA.zip" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/covettale.zip) | [备用节点1](https://download.determination.top/files/covettale.zip)
 
 -----
 

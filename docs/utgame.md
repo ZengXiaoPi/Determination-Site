@@ -157,9 +157,9 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/RVileSbgAcwy.rar
+<p><a href="https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/RVileSbgAcwy.rar" class="buttonDownload">普通节点下载</a></p>
 
-[OneDrive直链](https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E8%99%9A%E6%83%98%E8%A1%AB.rar) | [备用节点1](https://download.determination.top/files/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
 
 -----
 
@@ -173,7 +173,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：1个渣渣
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/departingtale.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/departingtale.zip)
+下载链接：
+  
+<p><a href="https://dl.determination.top/zxp/departingtale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/FbNdUnm1Rlce.zip" class="buttonDownload">普通节点下载</a></p> 
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/departingtale.zip) | [备用节点1](https://download.determination.top/files/departingtale.zip)
 
 -----
 
@@ -187,7 +191,11 @@ SHA256：2d440fdf76d3194afb92ba01da6af3555c09ae4ebfb7c64d76a48a4d1aeacdae
 
 游戏：起名废
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/d1VVXyForXGU.zip" class="buttonDownload">普通节点下载</a></p>
+ 
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip) | [备用节点1](https://download.determination.top/files/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
 
 -----
 

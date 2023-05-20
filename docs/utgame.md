@@ -39,15 +39,19 @@ sidebar_position: 1
 
 下载链接：
 
-<p><a href="http://dl.determination.top/zxp/CHANGEDSWAP%20LIN%20remake%200.114514.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://layer.determination.top/files/CHANGEDSWAP%20LIN%20remake%200.114514.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20LIN%20remake%200.114514.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/MrU4lTFuG76y.zip" class="buttonDownload">普通节点下载</a></p>
 
-[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20LIN%20remake%200.114514.zip) | [备用节点1](http://download.determination.top/files/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20LIN%20remake%200.114514.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
 
 ## 喵鲨战
 
 游戏：龙QAVC
 
-下载链接：[OneDrive直链](https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip)  [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20&%20all%20ends.zip)
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/rsJTtD5CzIms.zip" class="buttonDownload">普通节点下载</a></p>
+  
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20&%20all%20ends.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20with%20all%20ends.zip)
 
 -----
 
@@ -61,7 +65,18 @@ sidebar_position: 1
 
 游戏：洛白Offical
 
-下载链接：[OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/CTT2.rar)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/CTT2.apk)  [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar)  [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk)
+下载链接：
+
+### Windows版
+
+<p><a href="https://dl.determination.top/zxp/lb/CTT2.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="https://layer.determination.top/files/lb/CTT2.rar" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar) | [备用节点1](https://download.determination.top/files/CTT2.rar)
+
+### Android版
+  
+<p><a href="https://dl.determination.top/zxp/lb/CTT2.apk
+ [OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/CTT2.rar)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/CTT2.apk)  [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar)  [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk)
 
 -----
 

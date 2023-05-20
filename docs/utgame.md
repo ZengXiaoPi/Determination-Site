@@ -69,14 +69,15 @@ sidebar_position: 1
 
 ### Windows版
 
-<p><a href="https://dl.determination.top/zxp/lb/CTT2.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="https://layer.determination.top/files/lb/CTT2.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/CTT2.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/KEtpGQktJsDq.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar) | [备用节点1](https://download.determination.top/files/CTT2.rar)
 
 ### Android版
   
-<p><a href="https://dl.determination.top/zxp/lb/CTT2.apk
- [OneDrive直链（Windows）](https://dl.determination.top/zxp/lb/CTT2.rar)  [OneDrive直链（Android）](https://dl.determination.top/zxp/lb/CTT2.apk)  [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar)  [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk)
+<p><a href="https://dl.determination.top/zxp/lb/CTT2.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/weMdDNq4zWzM.apk" class="buttonDownload">普通节点下载</a></p>
+
+[OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk) | [备用节点1](https://download.determination.top/files/CTT2.apk)
 
 -----
 

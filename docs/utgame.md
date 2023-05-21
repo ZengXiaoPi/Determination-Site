@@ -49,7 +49,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20LIN%20remake%200.114514.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/MrU4lTFuG76y.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20LIN%20remake%200.114514.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/MrU4lTFuG76y.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20LIN%20remake%200.114514.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20LIN%20remake%200.114514.zip)
 
@@ -59,7 +59,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/rsJTtD5CzIms.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/CHANGEDSWAP%20&%20all%20ends.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/rsJTtD5CzIms.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/CHANGEDSWAP%20&%20all%20ends.zip) | [备用节点1](https://download.determination.top/files/CHANGEDSWAP%20with%20all%20ends.zip)
 
@@ -79,13 +79,13 @@ Edge浏览器：右键下载任务点击保留。
 
 ### Windows版
 
-<p><a href="https://dl.determination.top/zxp/lb/CTT2.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/KEtpGQktJsDq.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/CTT2.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/KEtpGQktJsDq.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/CTT2.rar) | [备用节点1](https://download.determination.top/files/CTT2.rar)
 
 ### Android版
   
-<p><a href="https://dl.determination.top/zxp/lb/CTT2.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/weMdDNq4zWzM.apk" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/CTT2.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/weMdDNq4zWzM.apk" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/CTT2.apk) | [备用节点1](https://download.determination.top/files/CTT2.apk)
 
@@ -103,7 +103,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Y66NZIlL5auL.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/Y66NZIlL5auL.zip" class="buttonDownload">普通节点下载</a></p>
   
 <p><a href="https://dl.determination.top/zxpcdn/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip">OneDrive CF Worker反代</a> | <a href="https://download.determination.top/files/%E5%B0%98%E5%9F%83%E5%8F%8D%E8%BD%AC%E4%B8%8D%E4%BF%A1.zip">备用节点1</a></p>
 
@@ -121,7 +121,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/covettale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/nUuKMFoKFOaA.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/covettale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/nUuKMFoKFOaA.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/covettale.zip) | [备用节点1](https://download.determination.top/files/covettale.zip)
 
@@ -139,7 +139,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/RVileSbgAcwy.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/%E8%99%9A%E6%83%98%E8%A1%AB.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/RVileSbgAcwy.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E8%99%9A%E6%83%98%E8%A1%AB.rar) | [备用节点1](https://download.determination.top/files/%E8%99%9A%E6%83%98%E8%A1%AB.rar)
 
@@ -157,7 +157,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
   
-<p><a href="https://dl.determination.top/zxp/departingtale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/FbNdUnm1Rlce.zip" class="buttonDownload">普通节点下载</a></p> 
+<p><a href="https://dl.determination.top/zxp/departingtale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/FbNdUnm1Rlce.zip" class="buttonDownload">普通节点下载</a></p> 
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/departingtale.zip) | [备用节点1](https://download.determination.top/files/departingtale.zip)
 
@@ -175,7 +175,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/d1VVXyForXGU.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/d1VVXyForXGU.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip) | [备用节点1](https://download.determination.top/files/%E6%95%B0%E7%A0%81%E6%96%AD%E5%B1%82v1.20.zip)
 
@@ -193,7 +193,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/LAP29qQ21rlq.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/LAP29qQ21rlq.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar) | [备用节点1](https://download.determination.top/files/DustTale%20By%20%E6%9C%AB%E8%90%BDX(FIXED%20%E2%96%B3).rar)
 
@@ -205,7 +205,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/uDJPcMYDVB0v.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/Murder%20Sans%20Fight%20by%20fdy.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/uDJPcMYDVB0v.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Murder%20Sans%20Fight%20by%20fdy.rar) | [备用节点1](https://download.determination.top/files/Murder%20Sans%20Fight%20by%20fdy.rar)
 
@@ -223,7 +223,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
   
-<p><a href="https://dl.determination.top/zxp/DyingTale%20By%20MoluoX%20V0.1.1.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/UZRbvLUzItba.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/DyingTale%20By%20MoluoX%20V0.1.1.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/UZRbvLUzItba.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/DyingTale%20By%20MoluoX%20V0.1.1.rar) | [备用节点1](https://download.determination.top/files/DyingTale%20By%20MoluoX%20V0.1.1.rar)
 
@@ -241,7 +241,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/edgeedge3.0.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/OiCXnplnOSYD.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/edgeedge3.0.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/OiCXnplnOSYD.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（3.0）](https://dl.determination.top/zxpcdn/edgeedge3.0.zip) | [备用节点1](https://download.determination.top/files/edgeedge3.0.zip)
 
@@ -263,7 +263,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/edgetale(3).zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/xrdiGs5DluXH.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/edgetale(3).zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/xrdiGs5DluXH.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/edgetale(3).zip) | [备用节点1](https://download.determination.top/files/edgetale(3).zip)
 
@@ -273,7 +273,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E5%BA%84%E4%B8%A5%E6%88%98.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/q0KfGrrTypUi.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/%E5%BA%84%E4%B8%A5%E6%88%98.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/q0KfGrrTypUi.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E5%BA%84%E4%B8%A5%E6%88%98.zip) | [备用节点1](https://download.determination.top/files/%E5%BA%84%E4%B8%A5%E6%88%98.zip)
 
@@ -291,7 +291,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/fellstory.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/fBfp7H6PVsfU.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/fellstory.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/fBfp7H6PVsfU.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/fellstory.zip) | [备用节点1](https://download.determination.top/files/fellstory.zip)
 
@@ -309,7 +309,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/helptale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/K0yESQ0WPlUi.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/helptale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/K0yESQ0WPlUi.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/helptale.zip) | [备用节点1](https://download.determination.top/files/helptale.zip)
 
@@ -327,7 +327,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/lb/H!tale_sans_fight.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/JbLgYjuTkags.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/H!tale_sans_fight.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/JbLgYjuTkags.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/H!tale_sans_fight.zip) | [备用节点1](https://download.determination.top/files/lb/H!tale_sans_fight.zip)
 
@@ -343,13 +343,13 @@ Edge浏览器：右键下载任务点击保留。
 
 ### Windows 版
 
-<p><a href="https://dl.determination.top/zxp/Ink!sans%20Fight%20v0.39.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/dTiqPFvErBxe.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/Ink!sans%20Fight%20v0.39.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/dTiqPFvErBxe.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/Ink!sans%20Fight%20v0.39.zip) | [备用节点1](https://download.determination.top/files/Ink!sans%20Fight%20v0.39.zip)
 
 ### Android版
 
-<p><a href="https://dl.determination.top/zxp/inksans0.39.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/0MRiDY3FEEaM.apk" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/inksans0.39.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/0MRiDY3FEEaM.apk" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/inksans0.39.apk) | [备用节点1](https://download.determination.top/files/inksans0.39.apk)
 
@@ -359,7 +359,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/isp3-zy.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Bf5cGPnOcU78.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/isp3-zy.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/Bf5cGPnOcU78.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/isp3-zy.zip) | [备用节点1](https://download.determination.top/files/isp3-zy.zip)
 
@@ -375,7 +375,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/Instinctale%20By%20MoluoX.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/cxhj6BetsyJz.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/Instinctale%20By%20MoluoX.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/cxhj6BetsyJz.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/Instinctale%20By%20MoluoX.rar) | [备用节点1](https://download.determination.top/files/Instinctale%20By%20MoluoX.rar)
 
@@ -393,7 +393,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/joketale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/6G17pjjcxIip.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/joketale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/6G17pjjcxIip.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/joketale.zip) | [备用节点1](https://download.determination.top/files/joketale.zip)
 
@@ -411,7 +411,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/JokeTale-By%20B%E7%AB%99HolyMirror5.html" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/TDF595AXmnLv.html" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/JokeTale-By%20B%E7%AB%99HolyMirror5.html" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/TDF595AXmnLv.html" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/JokeTale-By%20B%E7%AB%99HolyMirror5.html) | [备用节点1](https://download.determination.top/files/JokeTale-By%20B%E7%AB%99HolyMirror5.html)
 
@@ -429,7 +429,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/keepsans%20hard%20mod.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/iUpP3qv1rAIq.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/keepsans%20hard%20mod.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/iUpP3qv1rAIq.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/keepsans%20hard%20mod.zip) | [备用节点1](https://download.determination.top/files/keepsans%20hard%20mod.zip)
 
@@ -441,7 +441,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/keep%20sans%20fight.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/D84iSg0rFEWD.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/keep%20sans%20fight.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/D84iSg0rFEWD.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/keep%20sans%20fight.zip) | [备用节点1](https://download.determination.top/files/keep%20sans%20fight.zip)
 
@@ -461,13 +461,13 @@ Edge浏览器：右键下载任务点击保留。
                                                                                                                    
 ### Windows版
 
-<p><a href="https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Iu74JS7jan0s.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/Iu74JS7jan0s.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip) | [备用节点1](https://download.determination.top/files/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.zip)
 
 ### Android版
 
-<p><a href="https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/ZvqlHfL6nrqG.apk" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/ZvqlHfL6nrqG.apk" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.apk) | [备用节点1](https://download.determination.top/files/lb/%E9%AD%84%E6%AE%81%E6%97%A0%E5%8A%9F_%E8%A1%AB%E6%96%AF%C2%B7%E5%9D%8E%E8%B4%9D%E5%B0%94%E6%88%98.apk)
 
@@ -479,7 +479,7 @@ Edge浏览器：右键下载任务点击保留。
 
 :::
 
-<p><a href="https://dl.determination.top/zxp/lb/%E7%94%9F%E5%91%BD%E9%A2%86%E5%9F%9F%E4%B8%80%E9%98%B6%E6%AE%B5DEMO.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/l0ZtXBbFt7zV.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/%E7%94%9F%E5%91%BD%E9%A2%86%E5%9F%9F%E4%B8%80%E9%98%B6%E6%AE%B5DEMO.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/l0ZtXBbFt7zV.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/%E7%94%9F%E5%91%BD%E9%A2%86%E5%9F%9F%E4%B8%80%E9%98%B6%E6%AE%B5DEMO.zip) | [备用节点1](https://download.determination.top/files/lb/%E7%94%9F%E5%91%BD%E9%A2%86%E5%9F%9F%E4%B8%80%E9%98%B6%E6%AE%B5DEMO.zip)
 
@@ -499,13 +499,13 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/JC5lfW7XqMhJ.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/JC5lfW7XqMhJ.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Windows）](https://dl.determination.top/zxpcdn/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.zip) | [备用节点1](https://download.determination.top/files/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.zip)
 
 ### Android版
 
-<p><a href="https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/DreyJiXI4OYW.apk" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/DreyJiXI4OYW.apk" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（Android）](https://dl.determination.top/zxpcdn/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.apk) | [备用节点1](https://download.determination.top/files/lb/%E5%85%89%E6%99%B6%E4%BC%A0%E8%AF%B4_%E8%A1%AB%E6%96%AF%E6%88%98.apk)
 
@@ -523,7 +523,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/usls-eng-3.14.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/gEp5a1PCmQAb.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/usls-eng-3.14.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/gEp5a1PCmQAb.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/usls-eng-3.14.zip) | [备用节点1](https://download.determination.top/files/usls-eng-3.14.zip)
 
@@ -541,7 +541,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/lvtale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/rkLKHAGhHLwL.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lvtale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/rkLKHAGhHLwL.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lvtale.zip) | [备用节点1](https://download.determination.top/files/lvtale.zip)
 
@@ -559,7 +559,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/qltFRHbIlCZH.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/qltFRHbIlCZH.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip) | [备用节点1](https://download.determination.top/files/%E6%91%A9%E7%99%BB%E5%8F%8D%E8%BD%AC.zip)
 
@@ -577,7 +577,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/moderntale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/RCB528RawIww.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/moderntale.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/RCB528RawIww.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/moderntale.zip) | [备用节点1](https://download.determination.top/files/moderntale.zip)
 
@@ -597,7 +597,7 @@ Edge浏览器：右键下载任务点击保留。
 
 ### Remake版
 
-<p><a href="https://dl.determination.top/zxp/mousetale_remake.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/WSCvvuZVPjF4.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/mousetale_remake.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/WSCvvuZVPjF4.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxp/mousetale_remake.zip) | [备用节点1](https://download.determination.top/files/mousetale_remake.zip)
 
@@ -617,13 +617,13 @@ Edge浏览器：右键下载任务点击保留。
 
 ### v0.44 目前最新版
 
-<p><a href="https://dl.determination.top/zxp/OverSave-Tale%200.4.4.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/OIp6glcfj2Qm.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/OverSave-Tale%200.4.4.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/OIp6glcfj2Qm.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/OverSave-Tale%200.4.4.rar) | [备用节点1](https://download.determination.top/files/OverSave-Tale%200.4.4.rar)
 
 ### v0.16
 
-<p><a href="https://dl.determination.top/zxp/OverSave-Tale%200.16.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/0so2KawJpVYT.rar" class="buttonDownload">普通节点下载</a></p> 
+<p><a href="https://dl.determination.top/zxp/OverSave-Tale%200.16.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/0so2KawJpVYT.rar" class="buttonDownload">普通节点下载</a></p> 
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxp/OverSave-Tale%200.16.rar) | [备用节点1](https://download.determination.top/files/OverSave-Tale%200.16.rar)
 
@@ -643,7 +643,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/revenge%20act2.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/z9XzXJEP7YVZ.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/revenge%20act2.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/z9XzXJEP7YVZ.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/revenge%20act2.zip) | [备用节点1](https://download.determination.top/files/revenge%20act2.zip)
 
@@ -663,13 +663,13 @@ Edge浏览器：右键下载任务点击保留。
 
 ### Windows 版
 
-<p><a href="https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/L2ZkmnKXpPgF.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/L2ZkmnKXpPgF.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.zip) | [备用节点1](https://download.determination.top/files/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.zip)
 
 ### Android 版
 
-<p><a href="https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/V1VIWocJlPtM.apk" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.apk" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/V1VIWocJlPtM.apk" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.apk) | [备用节点1](https://download.determination.top/files/lb/%E6%97%B6%E7%A9%BA%E8%BF%81%E7%A7%BB_Asriel.apk)
 
@@ -687,7 +687,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/UTFAW6hbDwEk.exe" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/UTFAW6hbDwEk.exe" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe) | [备用节点1](https://download.determination.top/files/SpongeSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
 
@@ -707,7 +707,7 @@ Edge浏览器：右键下载任务点击保留。
 
 ### Remake 版
 
-<p><a href="https://dl.determination.top/zxp/swapfell_remake.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/vHTrwSgwXhu5.zip" class="buttonDownload">普通节点下载</a></p> 
+<p><a href="https://dl.determination.top/zxp/swapfell_remake.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/vHTrwSgwXhu5.zip" class="buttonDownload">普通节点下载</a></p> 
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/swapfell_remake.zip) | [备用节点1](https://download.determination.top/files/swapfell_remake.zip)
 
@@ -725,7 +725,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/TS!underswap%20papyrus%20fight%20by%20fdy.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/xFdcwF2djnXO.rar" class="buttonDownload">普通节点下载</a></p> 
+<p><a href="https://dl.determination.top/zxp/TS!underswap%20papyrus%20fight%20by%20fdy.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/xFdcwF2djnXO.rar" class="buttonDownload">普通节点下载</a></p> 
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/TS!underswap%20papyrus%20fight%20by%20fdy.rar) | [备用节点1](https://download.determination.top/files/TS!underswap%20papyrus%20fight%20by%20fdy.rar)
 
@@ -743,7 +743,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/F2rzAlh0ksvq.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/F2rzAlh0ksvq.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip) | [备用节点1](https://download.determination.top/files/%E7%A9%B6%E6%9E%81%E4%BC%A0%E8%AF%B4.zip)
 
@@ -761,7 +761,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/underfell.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Jb93cRXetnIG.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/underfell.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/Jb93cRXetnIG.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell.zip) | [备用节点1](https://download.determination.top/files/underfell.zip)
 
@@ -779,7 +779,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/underfell-plan.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/Fqo55ip8hMF1.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/underfell-plan.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/Fqo55ip8hMF1.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underfell-plan.zip) | [备用节点1](https://download.determination.top/files/underfell-plan.zip)
 
@@ -797,7 +797,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/underswap_sans.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/6OGWmSU6euTV.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/underswap_sans.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/6OGWmSU6euTV.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/underswap_sans.zip) | [备用节点1](https://download.determination.top/files/underswap_sans.zip)
 
@@ -809,7 +809,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/k7qWT9wz4W7Z.exe" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/k7qWT9wz4W7Z.exe" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe) | [备用节点1](https://download.determination.top/files/UnderSwap%20By%20%E6%9C%AB%E8%90%BDX.exe)
 
@@ -827,7 +827,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/tnc.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/LWGmni5Zhlol.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/tnc.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/LWGmni5Zhlol.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/tnc.zip) | [备用节点1](https://download.determination.top/files/tnc.zip)
 
@@ -847,13 +847,13 @@ Edge浏览器：右键下载任务点击保留。
 
 ### 未优化版
 
-<p><a href="https://dl.determination.top/zxp/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/vo07BHNn6yya.exe" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/vo07BHNn6yya.exe" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（未优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe) | [备用节点1](https://download.determination.top/files/worldchange_chara_fight%E6%9E%81%E7%AB%AF%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
 
 ### 优化版
 
-<p><a href="https://dl.determination.top/zxp/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/cD06073Hjh9k.exe" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/cD06073Hjh9k.exe" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代（优化版）](https://dl.determination.top/zxpcdn/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe) | [备用节点1](https://download.determination.top/files/worldchange_chara_fight%E5%9B%B0%E9%9A%BE%E6%A8%A1%E5%BC%8F%EF%BC%88complete_version%EF%BC%89.exe)
 
@@ -865,7 +865,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/lb/WorldChange_Sans_Fight_Phase1.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/SKy0Z42yY15K.zip" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/lb/WorldChange_Sans_Fight_Phase1.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/SKy0Z42yY15K.zip" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/lb/WorldChange_Sans_Fight_Phase1.zip) | [备用节点1](https://download.determination.top/files/lb/WorldChange_Sans_Fight_Phase1.zip)
 
@@ -879,6 +879,6 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://23.247.42.100:20178/down/H2KBbKkQH8L8.rar" class="buttonDownload">普通节点下载</a></p>
+<p><a href="https://dl.determination.top/zxp/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/H2KBbKkQH8L8.rar" class="buttonDownload">普通节点下载</a></p>
 
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar) |[备用节点1](https://download.determination.top/files/%E4%BC%A0%E8%AF%B4%E4%B9%8B%E4%B8%8B%E5%A4%A9%E5%9B%BD.rar)

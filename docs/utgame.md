@@ -291,7 +291,7 @@ Edge浏览器：右键下载任务点击保留。
 
 下载链接：
 
-<p><a href="https://dl.determination.top/zxp/ENDINGTALE.zip" class="buttonDownload">高速OneDrive直链下载</a>
+<p><a href="https://dl.determination.top/zxp/ENDINGTALE.zip" class="buttonDownload">高速OneDrive直链下载</a></p>
   
 [OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/ENDINGTALE.zip)
 

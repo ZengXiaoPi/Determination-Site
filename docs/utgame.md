@@ -31,22 +31,6 @@ Edge浏览器：右键下载任务点击保留。
 
 :::
 
-<details>
-
-<summary>节点测速</summary>
-  
-**高速节点** 测速
-  
-![LayerHost](/img/Layer-5-21.png)
-  
-**备用高速节点** 测速
-  
-![Frantech](/img/Frantech-5-21.png)
-
-</details>
-
------
-
 # ChangedSwap
 
 :::caution

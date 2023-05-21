@@ -112,7 +112,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © 2023 - ${new Date().getFullYear()} Determination Team. Built with Docusaurus.`,
+        copyright: `Determination Site Made By Determination Team. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -279,6 +279,24 @@ Edge浏览器：右键下载任务点击保留。
 
 -----
 
+# EndingTale
+
+中文名：绝境传说
+
+## EndingTale Sans Fight
+
+中文名：绝境传说 衫斯战
+
+游戏：Minecraft-小福Frisk
+
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/ENDINGTALE.zip" class="buttonDownload">高速OneDrive直链下载</a>
+  
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/ENDINGTALE.zip)
+
+-----
+
 # FellStory
 
 中文名：残暴物语

@@ -37,11 +37,11 @@ Edge浏览器：右键下载任务点击保留。
   
   **高速节点** 测速
   
-  <Img src="../img/Layer-5-21.png">
+  ![LayerHost](/img/Layer-5-21.png)
   
   **备用高速节点** 测速
   
-  <Img src="../img/Frantech-5-21.png">
+  ![Frantech](/img/Frantech-5-21.png)
 
 </details>
 

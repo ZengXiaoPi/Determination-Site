@@ -293,7 +293,7 @@ Edge浏览器：右键下载任务点击保留。
 
 <p><a href="https://dl.determination.top/zxp/ENDINGTALE.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/WnlSKY2lgauq.zip" class="buttonDownload">高速节点下载</a></p>
 
-<p><a href="https://dl.determination.top/zxpcdn/ENDINGTALE.zip">OneDrive CF Worker反代</a></p> | [备用高速节点](https://download.determination.top/files/ENDINGTALE.zip)
+<p><a href="https://dl.determination.top/zxpcdn/ENDINGTALE.zip">OneDrive CF Worker反代</a> | <a href="https://download.determination.top/files/ENDINGTALE.zip">备用高速节点</a></p>
 
 -----
 

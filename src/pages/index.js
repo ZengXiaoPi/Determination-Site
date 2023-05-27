@@ -25,6 +25,12 @@ function HomepageHeader() {
   );
 }
 
+var script = document.createElement('script');
+script.defer = true;
+script.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+script.setAttribute('data-cf-beacon', '{"token": "24814f2f5ca0472f8748dcb86b186ae6"}');
+document.head.appendChild(script);
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (

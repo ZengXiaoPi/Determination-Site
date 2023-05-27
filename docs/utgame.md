@@ -833,6 +833,24 @@ Edge浏览器：右键下载任务点击保留。
 
 -----
 
+## Undertale : False Reset
+
+中文名：传说之下：虚假重置
+
+### Undertale : False Reset Sans && Asgore Fight
+
+中文名：传说之下：虚假重置 衫斯 && 艾斯戈尔战
+
+游戏：猫斗士
+
+下载链接：
+
+<p><a href="https://dl.determination.top/zxp/FalseReset_V0.2.zip" class="buttonDownload">高速OneDrive直链下载</a> <a href="http://134.73.5.27:20178/down/CkBkop7Goaio.zip" class="buttonDownload">高速节点下载</a></p>
+
+[OneDrive CF Worker反代](https://dl.determination.top/zxpcdn/FalseReset_V0.2.zip) | [备用高速节点](https://download.determination.top/files/FalseReset_V0.2.zip)
+
+-----
+
 ## Undertale : The New Chance
 
 中文名：传说之下：新的事物

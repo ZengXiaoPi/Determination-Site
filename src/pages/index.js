@@ -9,6 +9,7 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+  document.head.innerHTML += '<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "24814f2f5ca0472f8748dcb86b186ae6"}'></script>';
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -24,8 +25,6 @@ function HomepageHeader() {
     </header>
   );
 }
-
-document.head.innerHTML += '<script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "24814f2f5ca0472f8748dcb86b186ae6"}'></script>';
 
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();

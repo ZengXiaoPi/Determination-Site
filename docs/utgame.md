@@ -2,6 +2,7 @@
 title: 🎥 游戏下载
 sidebar_position: 1
 ---
+<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "24814f2f5ca0472f8748dcb86b186ae6"}'></script><!-- End Cloudflare Web Analytics -->
 
 欢迎来到Determination Site！
 

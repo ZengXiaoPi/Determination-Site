@@ -6,6 +6,8 @@
 
 如果您有想提交的同人或者出现问题，敬请提交Issue。
 
+对本站最好的支持是点一个star。
+
 ## 许可证
 
 本网站网页内容使用[CC0 1.0公共领域贡献协议](https://creativecommons.org/publicdomain/zero/1.0/deed.zh)，Docusaurus及配置遵循[原仓库](https://github.com/facebook/docusaurus)使用MIT协议。

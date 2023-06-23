@@ -106,7 +106,7 @@ const config = {
                 to: '/blog',
               },
               {
-                label: '![Cloudflare](/img/cloudflare-v.webp)',
+                label: 'Cloudflare',
                 href: 'https://cloudflare.com',
               },
               {

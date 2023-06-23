@@ -69,7 +69,7 @@ const config = {
             position: 'left',
             label: '下载游戏',
           },
-          {到: '/blog', label: '博客', position: 'left'},
+          {to: '/blog', label: '博客', position: 'left'},
           {
             href: 'https://github.com/ZengXiaoPi/Determination-Site',
             label: 'GitHub',
@@ -85,7 +85,7 @@ const config = {
             items: [
               {
                 label: 'Undertale同人作品',
-                到: '/docs/utgame',
+                to: '/docs/utgame',
               },
             ],
           },

@@ -103,11 +103,11 @@ const config = {
             items: [
               {
                 label: '博客',
-                到: '/blog',
+                to: '/blog',
               },
               {
                 label: '![Cloudflare](/img/cloudflare-v.webp)',
-                to: '/blog',
+                href: 'https://cloudflare.com',
               },
               {
                 label: 'GitHub',
